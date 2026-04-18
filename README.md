@@ -7,7 +7,7 @@ _A da, imi place informatica._
 # <span style="color:green;">_Chestii despre mine_</span>
 
 - Imi place informatica si matematica
-- Urasc ~~"Textile" si~~ "[Alchimie](https://www.nerdarena.ro/problema/alchimie)" !!!
+- Urasc ~~"Textile" si~~ [Alchimie](https://www.nerdarena.ro/problema/alchimie) !!!
 - Ador citirea rapida (cu **fread** si **fwrite**), exponentierea rapida si ~~sortarea rapida~~ quicksort (stiu, sunt rapid)
 - Am spus oare ca imi place informatica?
 
