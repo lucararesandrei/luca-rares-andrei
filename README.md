@@ -63,5 +63,5 @@ Anyways, iata:
 
 ### <span style="color:green;">Glumesc</span>
 
-[Novac](https://www.nerdarena.ro/utilizator/Novac)
+[Novac](https://www.nerdarena.ro/utilizator/Novac)  
 [Robert](https://www.nerdarena.ro/utilizator/RobertSerb)
