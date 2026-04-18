@@ -1,7 +1,7 @@
 # <span style="color:green;">_Salutare_</span>
 
-Ma numesc **_Luca Rares Andrei_** ;  
-Am **14** ani si sunt elev la <span style="color:blue;">**ICHB**</span> ;  
+Ma numesc **_Luca Rares Andrei_**.  
+Am **14** ani si sunt elev la <span style="color:blue;">**ICHB**</span>.    
 _A da, imi place informatica._
 
 # <span style="color:green;">_Chestii despre mine_</span>
