@@ -53,8 +53,8 @@ Anyways, iata:
 
 # <span style="color:green;">Platforme unde sunt activ</span>
 
-[NerdArena](https://www.nerdarena.ro/utilizator/LucaRaresAndrei)
-[CodeForces](https://codeforces.com/profile/luca.rares.andrei)
+[NerdArena](https://www.nerdarena.ro/utilizator/LucaRaresAndrei)  
+[CodeForces](https://codeforces.com/profile/luca.rares.andrei)  
 [AtCoder](https://atcoder.jp/users/lucararesandrei) (mi-au macelarit poza de profil)
 
 # <span style="color:green;">Prietenii mei</span>
