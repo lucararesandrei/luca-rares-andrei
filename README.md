@@ -51,17 +51,17 @@ Anyways, iata:
   </tbody>
 </table>
 
-# <span style="color:green;">Platforme unde sunt activ</span>
+# <span style="color:green;">_Platforme unde sunt activ_</span>
 
 [NerdArena](https://www.nerdarena.ro/utilizator/LucaRaresAndrei)  
 [CodeForces](https://codeforces.com/profile/luca.rares.andrei)  
 [AtCoder](https://atcoder.jp/users/lucararesandrei) (mi-au macelarit poza de profil)
 
-# <span style="color:green;">Prietenii mei</span>
+# <span style="color:green;">_Prietenii mei_</span>
 
 ...
 
-### <span style="color:green;">Glumesc</span>
+### <span style="color:green;">_Glumesc_</span>
 
 [Novac](https://www.nerdarena.ro/utilizator/Novac)  
 [Robert](https://www.nerdarena.ro/utilizator/RobertSerb)
