@@ -55,7 +55,7 @@ Anyways, iata:
 
 [NerdArena](https://www.nerdarena.ro/utilizator/LucaRaresAndrei)  
 [CodeForces](https://codeforces.com/profile/luca.rares.andrei)  
-[AtCoder](https://atcoder.jp/users/lucararesandrei) (mi-au macelarit poza de profil)
+[AtCoder](https://atcoder.jp/users/lucararesandrei) (mi-au macelarit poza de profil)  
 [MonkeyType](https://monkeytype.com/profile/lrandrei)
 
 # <span style="color:green;">_Prietenii mei_</span>
